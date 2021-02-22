@@ -105,7 +105,7 @@ type ActionContext = {
   output(name: string, value: JsonValue): void;
 };
 
-type TemplateAction = {
+export type TemplateAction = {
   id: string;
   handler: (ctx: ActionContext) => Promise<void>;
 };
