@@ -79,6 +79,7 @@ export const MultistepJsonForm = ({
               </StepLabel>
               <StepContent key={title}>
                 <Form
+                  showErrorList={false}
                   fields={fields}
                   widgets={widgets}
                   key={title}
