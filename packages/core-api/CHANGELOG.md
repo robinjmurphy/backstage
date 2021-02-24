@@ -1,5 +1,11 @@
 # @backstage/core-api
 
+## 0.2.12
+
+### Patch Changes
+
+- 2a271d89e: Internal refactor of how component data is access to avoid polluting components and make it possible to bridge across versions.
+
 ## 0.2.11
 
 ### Patch Changes

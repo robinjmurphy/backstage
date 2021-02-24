@@ -1,5 +1,14 @@
 # @backstage/core
 
+## 0.6.4
+
+### Patch Changes
+
+- 2a271d89e: Internal refactor of how component data is access to avoid polluting components and make it possible to bridge across versions.
+- 8a1566719: Added a new useSupportConfig hook that reads a new `app.support` config key. Also updated the SupportButton and ErrorPage components to use the new config.
+- Updated dependencies [2a271d89e]
+  - @backstage/core-api@0.2.12
+
 ## 0.6.3
 
 ### Patch Changes

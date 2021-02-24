@@ -1,5 +1,11 @@
 # @backstage/plugin-auth-backend
 
+## 0.3.3
+
+### Patch Changes
+
+- 3af994c81: Expose a configuration option for the oidc scope
+
 ## 0.3.2
 
 ### Patch Changes

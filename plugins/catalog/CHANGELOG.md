@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog
 
+## 0.4.1
+
+### Patch Changes
+
+- 10362e9eb: Use entity relation for the owner of an entity in the catalog entity page header.
+- Updated dependencies [2a271d89e]
+- Updated dependencies [8a1566719]
+- Updated dependencies [02816ecd7]
+  - @backstage/core@0.6.4
+  - @backstage/plugin-catalog-react@0.1.1
+
 ## 0.4.0
 
 ### Minor Changes

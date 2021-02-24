@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.8.1
+
+### Patch Changes
+
+- f31b76b44: Consider both authentication methods for both `onprem` and `cloud` BitBucket
+
 ## 0.8.0
 
 ### Minor Changes
